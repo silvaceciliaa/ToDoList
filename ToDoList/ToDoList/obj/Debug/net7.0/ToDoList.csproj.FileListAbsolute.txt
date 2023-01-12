@@ -1,0 +1,15 @@
+/Users/amarofilho/Projects/ToDoList/ToDoList/bin/Debug/net7.0/ToDoList
+/Users/amarofilho/Projects/ToDoList/ToDoList/bin/Debug/net7.0/ToDoList.deps.json
+/Users/amarofilho/Projects/ToDoList/ToDoList/bin/Debug/net7.0/ToDoList.runtimeconfig.json
+/Users/amarofilho/Projects/ToDoList/ToDoList/bin/Debug/net7.0/ToDoList.dll
+/Users/amarofilho/Projects/ToDoList/ToDoList/bin/Debug/net7.0/ToDoList.pdb
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.csproj.AssemblyReference.cache
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.AssemblyInfoInputs.cache
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.AssemblyInfo.cs
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.dll
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/refint/ToDoList.dll
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.pdb
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ToDoList.genruntimeconfig.cache
+/Users/amarofilho/Projects/ToDoList/ToDoList/obj/Debug/net7.0/ref/ToDoList.dll
